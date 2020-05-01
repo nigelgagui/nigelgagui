@@ -1,0 +1,46 @@
+/* CSS Created by Start Bootstrap - Modified by Nigel Gagui */
+
+body {
+    padding-top: 5rem;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+ h3 {
+    font-size: 1em;
+    padding: 0px;
+}
+.col-3 h3 {
+    text-align: right;
+    vertical-align: top;
+}
+.col-9 {
+    text-align:left;
+    margin-top: 0px;
+}
+
+.nav-text, strong, h3 {
+    text-transform: uppercase;
+}
+.onlinecourse>p>strong>a {
+    text-transform: uppercase; 
+    color: black;
+    text-decoration: underline;
+}
+.education>p>strong {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+hr {
+    clear: both;
+}
+        
+section:before { 
+    display: block; 
+    content: " "; 
+    height: 75px;      
+    margin-top: -75px;   	
+    visibility: hidden; 
+}
